@@ -4,3 +4,7 @@ __pycache__/
 .vscode/
 .idea/
 *.log
+
+# Documentation not for public repo
+TODO.md
+RESEARCH_AND_REFERENCE.md
